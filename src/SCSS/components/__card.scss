@@ -1,0 +1,13 @@
+.card{
+    background-color: #2b546a;
+    text-align: center;
+    color: #fff;
+}
+.card__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 4.16%;
+    line-height: 1.7142857143;
+}

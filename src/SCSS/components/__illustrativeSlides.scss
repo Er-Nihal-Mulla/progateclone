@@ -1,0 +1,55 @@
+.illustrative__content {
+    margin-top: 40px;
+}
+
+.illustrative__text {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.illustrative__text h3 {
+    color: #2b546a;
+    line-height: 1.7142857143;
+    text-align: center;
+    font-family: "AvenirNext", "Lato", "Hirago KakuGothic ProN", Meiryo,
+        sans-serif;
+    font-weight: 300;
+
+    margin: 0;
+    padding: 0 0;
+    border: 0;
+    outline: 0;
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.illustrative__text p {
+    font-size: 1rem;
+    line-height: 2;
+    margin-top: 5px;
+    text-align: center;
+    color: #8491a5;
+    font-family: "AvenirNext", "Lato", "Hirago KakuGothic ProN", Meiryo, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+.illustrative__img{
+    margin-top: 30px;
+}
+.illustrative__img img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0 240px;
+    width: 100%;
+    vertical-align: middle;
+    border: 0;
+    box-sizing: border-box;
+    text-align: center;
+}

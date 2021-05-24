@@ -1,0 +1,92 @@
+.banner {
+  width: 100%;
+  height: 0%;
+  background: #f9fbfe;
+  position: relative;
+  font-family: AvenirNext, Lato, "Hirago KakuGothic ProN", Meiryo, sans-serif;
+}
+
+.banner__content {
+  font-weight: 100;
+  font-size: 48px;
+  line-height: 1.5;
+  text-align: center;
+  letter-spacing: 0.03em;
+  height: 0%;
+}
+
+.container {
+  width: 1450px;
+  max-width: 1450px;
+  color: #2b546a;
+  margin: 0 auto;
+}
+
+.banner__text h2 {
+  padding: 0%;
+  border: 0;
+  outline: 0;
+  font-size: 45px;
+  font-weight: 100%;
+}
+
+.banner__btn {
+  display: inline-block;
+  font-size: 0.875rem;
+  text-align: center;
+  
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out 0s;
+  color: rgb(255, 255, 255);
+  background-color: rgb(48, 200, 214);
+  min-width: 200px;
+  line-height: 48px;
+  font-family: AvenirNext, Lato, "Hirago KakuGothic ProN", Meiryo, sans-serif;
+  border-radius: 5px;
+  font-weight: bold;
+  letter-spacing: 0.02em;
+}
+.banner__counter {
+  display: inline-block;
+  text-align: center;
+  padding: 0px 16px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out 0s;
+  color: #8491a5;
+  font-weight: bold;
+  font-size: 13px;
+  min-width: 200px;
+  line-height: 48px;
+  font-family: AvenirNext, Lato, "Hirago KakuGothic ProN", Meiryo, sans-serif;
+  border-radius: 5px;
+  letter-spacing: 0.02em;
+}
+.banner__counter .span {
+  color: #2b546a;
+  font-size: 1.3rem;
+}
+.banner__counter__inner {
+  display: inline-block;
+  text-align: center;
+  padding: 0px 16px;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out 0s;
+  color: #8491a5;
+  font-weight: bold;
+  font-size: 13px;
+  min-width: 200px;
+  line-height: 48px;
+  font-family: AvenirNext, Lato, "Hirago KakuGothic ProN", Meiryo, sans-serif;
+  border-radius: 5px;
+  letter-spacing: 0.02em;
+}
+.banner__counter__inner .span {
+    color: #2b546a;
+    font-size: 1.3rem;
+  }

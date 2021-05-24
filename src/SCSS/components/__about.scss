@@ -1,0 +1,28 @@
+.about{
+    padding: 100px 4.16% 0;
+    overflow: hidden;
+    background: #88e7ce;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 64px;
+}
+.bg__img{
+    height: 100%;
+    position: relative;
+    bottom: -1px;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 450px;
+
+}
+
+.bg__img img{
+    vertical-align: middle;
+    border: 0;
+    box-sizing: border-box;
+    height: 100%;
+    position: relative;
+    bottom: -1px;
+    width: 100%;
+}

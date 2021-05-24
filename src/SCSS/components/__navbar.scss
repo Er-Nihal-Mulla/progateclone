@@ -1,0 +1,61 @@
+.nabar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+
+}
+
+.navbar__text {
+    padding: 45px 0px;
+    display: flex;
+    height: 60px;
+    align-items: center;
+    background: #f9fbfe;
+    width: 1480px;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 112px;
+    margin-left: 32px;
+    margin-top: 32px;
+
+}
+
+.navbar__ul {
+    width: 90%;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    padding-right:30px;
+    margin-top: 34px;
+}
+
+
+.navbar__ul li a {
+    text-decoration: none;
+    color: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 150px;
+    padding: 0 30px;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+
+#last__child{
+    color: #fff;
+    background-color: rgb(48, 200, 214);
+    box-shadow: 0 .5rem 1rem rgba(66, 152, 163, 0.1);
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+#last__child:hover{
+    transition: all 0.3s linear;
+    background:  rgb(22, 130, 139);
+}
+
